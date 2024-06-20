@@ -51,7 +51,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Gilbert Hutapea
+            Syed Talha Shah
           </a>
         </Typography>
       </Paper>
