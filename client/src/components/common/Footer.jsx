@@ -42,13 +42,12 @@ const Footer = () => {
             color: 'gray',
           }}
         >
-          &copy; 2022 BertFlix Developed by{' '}
+          &copy; 2024 Netlify Developed by{' '}
           <a
             style={{
               textDecoration: 'none',
               color: theme.palette.primary.main
             }}
-            href="https://berthutapea.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
