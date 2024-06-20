@@ -132,7 +132,7 @@ This project was created using the following technologies.
 ![img-10](https://github.com/berthutapea/mern-movie/assets/111676859/1532b9cb-0944-4b47-8898-7273f8ce6082)
 
 ## Author
-- Portfolio: [Talha Hussain](https://vercel.com/talhabruhs-projects/my-portfolio/EHBDeVCBD9USoPHcDD2tLEDTTpn7)
+- Portfolio: [Talha Hussain](https://my-portfolio-oohleq9z1-talhabruhs-projects.vercel.app/)
 - Linkedin: [SyedTalhaShah](https://www.linkedin.com/in/syed-talha-shah-60726a221/)
 - Email: [talhahussain349@gmail.com](mailto:berthutapea@gmail.com)
 
