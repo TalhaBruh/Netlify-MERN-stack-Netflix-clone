@@ -1,4 +1,4 @@
-<H1 align ="center" > BertFlix (MERN MOVIE)  </h1>
+<H1 align ="center" > Netlify (MERN MOVIE)  </h1>
 <h5  align ="center"> 
 Fullstack open source movie application made with MongoDB, Express, React & Nodejs (MERN) </h5>
 <br/>
@@ -132,11 +132,9 @@ This project was created using the following technologies.
 ![img-10](https://github.com/berthutapea/mern-movie/assets/111676859/1532b9cb-0944-4b47-8898-7273f8ce6082)
 
 ## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+- Portfolio: [Talha Hussain](https://my-portfolio-oohleq9z1-talhabruhs-projects.vercel.app/)
+- Linkedin: [SyedTalhaShah](https://www.linkedin.com/in/syed-talha-shah-60726a221/)
+- Email: [talhahussain349@gmail.com](mailto:berthutapea@gmail.com)
 
 ## License
 
