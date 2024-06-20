@@ -133,7 +133,7 @@ This project was created using the following technologies.
 
 ## Author
 - Portfolio: [Talha Hussain](https://berthutapea.vercel.app/)
-- Linkedin: [SyedTalhaShah]((https://www.linkedin.com/in/syed-talha-shah-60726a221/))
+- Linkedin: [SyedTalhaShah](https://www.linkedin.com/in/syed-talha-shah-60726a221/)
 - Email: [talhahussain349@gmail.com](mailto:berthutapea@gmail.com)
 
 ## License
