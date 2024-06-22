@@ -1,3 +1,3 @@
 # Netlify (MERN-MOVIE)
 
-Backend (Server)
+Backend (Server Side)
