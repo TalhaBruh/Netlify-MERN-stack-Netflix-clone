@@ -1,3 +1,3 @@
-# BertFlix (MERN-MOVIE)
+# Netlify (MERN-MOVIE)
 
-Fronted (Client)
+Fronted phase (Client side)
