@@ -25,5 +25,4 @@ const personMedias = async (req, res) => {
   }
 };
 
-
 export default { personDetail, personMedias };
