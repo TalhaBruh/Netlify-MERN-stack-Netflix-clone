@@ -8,7 +8,7 @@ const create = async (req, res) => {
     const review = new reviewModel({
       user: req.user.id,
       movieId,
-      ...req.body
+      ...req.body,
     });
 
     await review.save();
@@ -16,7 +16,7 @@ const create = async (req, res) => {
     responseHandler.created(res, {
       ...review._doc,
       id: review.id,
-      user: req.user
+      user: req.user,
     });
   } catch {
     responseHandler.error(res);
@@ -29,7 +29,7 @@ const remove = async (req, res) => {
 
     const review = await reviewModel.findOne({
       _id: reviewId,
-      user: req.user.id
+      user: req.user.id,
     });
 
     if (!review) return responseHandler.notfound(res);
@@ -44,9 +44,11 @@ const remove = async (req, res) => {
 
 const getReviewsOfUser = async (req, res) => {
   try {
-    const reviews = await reviewModel.find({
-      user: req.user.id
-    }).sort("-createdAt");
+    const reviews = await reviewModel
+      .find({
+        user: req.user.id,
+      })
+      .sort("-createdAt");
 
     responseHandler.ok(res, reviews);
   } catch {
