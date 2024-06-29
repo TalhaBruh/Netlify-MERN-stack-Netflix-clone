@@ -69,5 +69,3 @@ const AuthModal = () => {
 };
 
 export default AuthModal;
-
-experimentalStyled = AuthModal;
