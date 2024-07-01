@@ -11,7 +11,7 @@ import "@fontsource/roboto/700.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  // <React.StrictMod
+  // <React.StrictMo
   <Provider store={store}>
     <App />
   </Provider>
