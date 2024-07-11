@@ -72,6 +72,6 @@ const routes = [
   },
 ];
 
-// Export the ro
+// Export the r
 
 export default routes;
