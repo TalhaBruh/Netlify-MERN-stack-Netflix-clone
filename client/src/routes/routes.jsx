@@ -72,6 +72,6 @@ const routes = [
   },
 ];
 
-// Expo
+// Exp
 
 export default routes;
