@@ -75,6 +75,6 @@ const App = () => {
   );
 };
 
-// This is a random comment added before the expo
+// This is a random comment added before the exp
 
 export default App;
