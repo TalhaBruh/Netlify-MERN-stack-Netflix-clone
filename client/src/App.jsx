@@ -75,6 +75,6 @@ const App = () => {
   );
 };
 
-// This is a random comment added 
+// This is a random comment added
 
 export default App;
