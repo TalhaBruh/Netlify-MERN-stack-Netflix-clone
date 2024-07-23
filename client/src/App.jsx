@@ -75,6 +75,6 @@ const App = () => {
   );
 };
 
-// This is a random commen
+// This is a random comme
 
 export default App;
