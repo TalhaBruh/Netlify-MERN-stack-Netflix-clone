@@ -75,6 +75,6 @@ const App = () => {
   );
 };
 
-// This is a random comme
+// This is a random comm
 
 export default App;
